@@ -1,1 +1,29 @@
+git init - Această comandă este folosită pentru a crea un nou repository.
+  Utilizare: git init [repository name]
 
+git clone - Această comandă este folosită pentru a clona/obține un repository de la o adresă URL existentă.
+  Utilizare: git clone [url]
+
+git commit - Această comandă înregistrează sau captează permanent fișierul în istoricul versiunilor.
+  Utilizare: git commit -m “[ mesajul pentru commit]”
+
+git diff - Această comandă arată diferențele de fișiere care nu sunt încă puse în stage.
+  Utilizare: git diff  
+
+git status - Această comandă listează toate fișierele care trebuie să fie comise.
+  Utilizare: git status
+  
+git log - Această comandă este folosită pentru a lista istoricul versiunilor pentru branch-ul curent.
+  Utilizare: git log
+  
+git show - Această comandă arată metadatele și modificările de conținut ale comiterii specificate.
+  Utilizare: git show [commit]
+  
+git tag - Această comandă este folosită pentru a da etichete commit-ului specificat.
+  Utilizare: git tag [commitID]
+  
+git merge - Această comandă îmbină istoricul branchul-ui specificat în branch-ul curent.
+  Utilizare: git merge [branch name]
+  
+git remote - Această comandă este utilizată pentru a vă conecta repository-ul local la serverul de la remote.
+  Utilizare: git remote add [variable name] [Remote Server Link]
