@@ -1,1 +1,94 @@
-file:///C:/Users/Asus/Desktop/Patricia%20it/impact-academies-camps/CV.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV-Patricia</title>
+</head>
+<body>
+    <h1 text align="center">CV</h1>
+    <h3>Informații personale</h3>
+    <pre>
+    <b>Nume/Prenume:</b> Patricia BÎrca
+    <b>Adresa:</b> **** *****
+    <b>Telefon:</b> 37379402200
+    <b>E-mail:</b> patriciabirca@gmail.com
+    <b>Data nașterii:</b> 27.11.2005
+    <b>Sex:</b> Femenin
+    </pre>
+    <hr>
+    <h3>Educație și formare</h3>
+    <p>
+    <b>Studii:</b> 
+        Liceul Teoretic "Dante Alighieri"
+    <ul><li>2011-2014 - Clasele primare</li>
+        <li>2014-2019 - Clasele gimnaziale</li>
+        <li>2020-prezent - Clasele liceale</li>
+    </ul>
+    </p>
+    <p>
+        <b>Activități înafara școlii/Copilărie:</b>
+        <Table border=3 width=500 height=200>
+            <Caption align=top> Activități după ani </Caption>
+            <Tr><Th>Nr<Th> Vârsta <Th> Ocupații<Tr/>
+            <Tr><Td>1<Td> 7-10 ani <Td> Origami </Tr>
+            <Tr><Td>2<Td> 8-9 ani <Td> Înot </Tr>
+            <Tr><Td>3<Td> 9-10 ani <Td> Dansuri </Tr>
+            <Tr><Td>4<Td> 10-11 ani <Td> Karate </Tr>
+            <Tr><Td>5<Td> 11-12 ani <Td> Taekwondo </Tr>
+            <Tr><Td>6<Td> 12-13 ani <Td> Teatru\Actorie </Tr>
+            <Tr><Td>7<Td> 13 ani <Td> Pictură </Tr>
+            <Tr><Td>8<Td> 13-14 ani <Td> Atletică </Tr>
+            <Tr><Td>9<Td> 13-15 ani <Td> Cursuri de Franceză </Tr>
+            <Tr><Td>10<Td> 14 ani <Td> Cerc de jucării moi </Tr>
+            <Tr><Td>11<Td> 15 ani <Td> Cursuri de chitară </Tr>
+            <Tr><Td>12<Td> 16 ani <Td> Cursuri în design </Tr>
+            </Table>
+            <Br><Br><Br>
+
+     </p>
+     <hr>
+     <h3>Competențe și abilități:</h3>
+    
+     <p>
+        <b>Lingvistice:</b>
+        <ul>
+            <li>Româna(Nativ)</li>
+            <li>Rusa(Avansat)</li>
+            <li>Franceza(Avansat)</li>
+            <li>Engleza(Mediu)</li>
+            <li>Italiana(Mediu)</li>
+        </ul>
+        <b>Competențe digitale:</b>
+        <ul>
+            <li>Microsoft ofice(Word,PowerPoint...)</li>
+            <li>Figma</li>
+            <li>Addobe Photoshop</li>
+            <li>Adobe Ilustrator</li>
+
+        </ul>
+        <b>abilități profesionale</b>
+        <ul>
+            <li>Web design</li>
+            <li>Creative design</li>
+            <li>Digital marketing(Analytics,social media,reclame,targeting)</li>
+             <ol>
+                <li>Google ads</li>
+                <li>Facebook/Instagram ads</li>
+                
+             </ol>
+            
+        </ul>
+        <b>Soft skills</b>
+        <ul>
+            <li>Inteligență emoțională</li>
+            <li>Empatie</li>
+            <li>Adaptabilitate</li>
+            <li>Gândire critică</li>
+        </ul>
+        
+     </p>
+</body>
+</html>
